@@ -1,0 +1,61 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #ff690ec7;
+  --ifm-color-primary-dark: #ff690ec7;
+  --ifm-color-primary-darker: #ff690ec7;
+  --ifm-color-primary-darkest: #ff690ec7;
+  --ifm-color-primary-light: #ff690ec7;
+  --ifm-color-primary-lighter: #ff690ec7;
+  --ifm-color-primary-lightest: #ff690ec7;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #ff690ec7;
+  --ifm-color-primary-dark: #ff690ec7;
+  --ifm-color-primary-darker: #ff690ec7;
+  --ifm-color-primary-darkest: #ff690ec7;
+  --ifm-color-primary-light: #ff690ec7;
+  --ifm-color-primary-lighter: #ff690ec7;
+  --ifm-color-primary-lightest: #ff690ec7;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+.themedComponent_mlkZ {
+transform: scale(1.6);
+}
+
+.featureSvg_GfXr, .featureSvg_GfXr{
+  fill: #ff690ec7 !important;
+}
+
+.png-0 {
+  width: 200px;
+  height: 150px !important;
+  transform: scale(1.4);
+}
+
+.png-1 {
+  width: 120px !important;
+  height: 120px !important;
+  transform: scale(1.4);
+
+}
+
+.png-2 {
+  width: 120px !important;
+  height: 120px !important;
+  transform: scale(1.3);
+  margin-bottom: 30px;
+}
+.cont{
+  /* margin-top: 50px; */
+}
