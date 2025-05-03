@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 ---
-# 📦 useLocalStorage
+# ⚛️ useLocalStorage
 
 `useLocalStorage` is a custom React hook from the **Hooksy** library that syncs state with `localStorage`.  
 It behaves just like `useState`, but keeps your data persistent between page reloads.
